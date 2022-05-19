@@ -2,8 +2,6 @@
 
 DNS server for CSCI 1680 Final project.
 
-------
-
 ### Goals:
 
 Our goal was to write a DNS resolver that can act as a local DNS resolver for locally connected computers. We planned on implementing the following features:
